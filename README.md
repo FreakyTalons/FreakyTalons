@@ -2,7 +2,11 @@
 
 I'm Gauri, and I go by **FreakyTalons**🪶
 
+<<<<<<< HEAD
 I am a **Frontend Developer**. I love making utilities and tiny projects using ReactJS along with anything new that I can learn to make something which is fun and useful. You can catch me anytime to talk anything **Web3** and **Crypto**🚀.
+=======
+I am a **Frontend Developer**. You can find me, now and then, making tiny projects using ReactJS along with new utilities that I can learn to make something which is fun and useful. I'm always up to talk anything **Web3** and **Crypto**🚀.
+>>>>>>> 54969a0ad2ddf4ea9e5bb40dc54cdafcb99a6a71
 
 Feel free to reach out @ **gjoshi.0522@gmail.com**! :)
 
