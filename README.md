@@ -32,3 +32,5 @@ Feel free to reach out @ **gjoshi.0522@gmail.com**! :)
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="60" height="60"/> </a> 
 </p>
 
+
+<p>PS: I take it onto myself to develop webpages for almost everything I like, I take after Marshall Eriksen.✨</p>
